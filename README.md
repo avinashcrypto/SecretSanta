@@ -272,4 +272,4 @@ For questions or feedback, please open an issue on GitHub.
 
 **Built with ❤️ for the Zama Developer Program**
 
-**Submission Date**: November 2025
+**Submission Date**: December 2025
